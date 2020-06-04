@@ -1,1 +1,4 @@
-Spring otus course
+Otus spring course 
+----
+Домашнее задание: Разработать полноценное SPA приложение на React
+-----
